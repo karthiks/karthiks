@@ -4,8 +4,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://blog.codonomics.com/)](https://blog.codonomics.com/)
 
 
-- 🌱 I’m currently learning React Native, and GraphQL
-- 👯 I’m looking to collaborate on building great teams to build great products!
+- 🌱 Currently dabbling on pet mobile projects using React Native
+- 👯 I have fun working with teams
 - ⚡ Fun fact: I love dogs but scared of them too
 
 ## Some of my Github Stats
