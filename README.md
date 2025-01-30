@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://blog.codonomics.com/)](https://blog.codonomics.com/)
 
 
-- 🌱 Currently dabbling on pet mobile projects using React Native
+- 🌱 Currently dabbling on Data Engineering side of things
 - 👯 I have fun working with teams
 - ⚡ Fun fact: I love dogs but scared of them too
 
@@ -21,7 +21,6 @@
 
 ## Hey 👋, This is karthiks
 [![Gmail Badge](https://img.shields.io/badge/-myemail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:myemail)](mailto:myemail) 
-[![Twitter Badge](https://img.shields.io/badge/-karthiks-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/karthiks/)](https://www.twitter.com/karthiks/)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Shhh!!..
