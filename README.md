@@ -5,8 +5,8 @@
 
 
 - 🌱 Currently dabbling on Gen AI and Data Engineering side of things
-- 👯 I have fun working with teams
-- ⚡ Fun fact: I love dogs but scared of them too
+- 👯 I have fun leading teams in delivering exciting results
+- ⚡ Aside: I am intrigued by Astrology and been learning it for a while now
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=karthiks alt=karthiks /> </p>
