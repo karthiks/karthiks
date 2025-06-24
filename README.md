@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://blog.codonomics.com/)](https://blog.codonomics.com/)
 
 
-- 🌱 Currently dabbling on Data Engineering side of things
+- 🌱 Currently dabbling on Gen AI and Data Engineering side of things
 - 👯 I have fun working with teams
 - ⚡ Fun fact: I love dogs but scared of them too
 
