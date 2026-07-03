@@ -24,7 +24,7 @@
 ## Quick Links to some of my works
 - [(Interactive) Telugu Hanuman Chalisa](https://play.google.com/store/apps/details?id=com.codonomics.hanumachalisa) from [private Github Repo](https://github.com/karthiks/telugu-hanuman-chalisa)
 - [Aathichudi](https://play.google.com/store/apps/details?id=com.codonomics.aathichudi.free) from [private Github Repo](https://github.com/karthiks/aathichudi)
-- [MVP Android App in the works] from [private Github Repo](https://github.com/karthiks/my-astro)
+- [My Family Astro](https://play.google.com/store/apps/details?id=com.codonomics.myfamilyastro) from [private Github Repo](https://github.com/karthiks/my-astro)
 - [Codonomics.com Website](https://github.com/FrontendWorks/my-jekyll-site)
 - [My Blog on Blogger platform](https://blog.codonomics.com/)
 - [My Blog on Medium](https://medium.com/@codonomics)
